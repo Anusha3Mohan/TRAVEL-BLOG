@@ -1,0 +1,229 @@
+.header{
+    display: flex;
+    font-size:16px;
+    font-weight:bold;
+    color: rgb(105, 105, 105);
+    margin-left: 25.5%;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.heading{
+    display: flex;
+}
+
+.blog:hover{
+    color: rgb(163, 162, 162);
+}
+
+.destination:hover{
+    color: rgb(163, 162, 162); 
+}
+
+.experience:hover{
+    color: rgb(163, 162, 162);
+}
+
+.itineraries:hover{
+    color: rgb(163, 162, 162);
+}
+
+.nomadic:hover{
+    color: rgb(163, 162, 162);
+}
+
+.nav-link:hover{
+    color: rgb(163, 162, 162);
+}
+
+.about{
+    background-color: rgb(244, 244, 244);
+   
+}
+
+.aboutimg{
+    border-radius:350px;
+    padding: 70px;
+    margin-left: -45px;
+}
+
+.abouthead{
+    display: flex;
+}
+
+.head{
+    text-align: center;
+    margin-top:50px;
+    font-size: 65px;
+    font-weight: bolder;
+    margin-left:-80px;
+    color: rgb(75, 75, 75);
+}
+
+.para{
+    text-align: center;
+    font-size: 22px;
+    margin-left: -30px;
+    margin-top: 60px;
+}
+
+.subpara{
+    text-align: center;
+    font-size: 22px;
+    margin-left: -30px;
+    margin-top:40px;
+}
+
+.button{
+    text-align: center;
+    background-color: rgb(32, 61, 87);
+}
+
+.head1{
+    font-size:45px;
+    font-weight: bold;
+    color: rgb(83, 83, 83);
+    text-align: center;
+    margin-top: 45px;
+}
+
+
+.head2{
+    font-size:40px;
+    font-weight: bold;
+    color: rgb(83, 83, 83);
+    margin-top: 45px;
+    margin-left: 20px;
+}
+
+.grid{
+    margin-top:20px;
+    display: flex;
+    text-align: center;
+}
+
+#text{
+    font-size:22px;
+    font-weight:bold;
+    padding: 10px;
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: rgb(80, 125, 170);
+}
+
+#text:hover{
+    color: rgb(135, 185, 236) ;
+}
+
+.text{
+    display: flex;
+    text-align: center;
+}
+
+.head3{
+    font-size:45px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(83, 83, 83);
+    margin-top: 100px;
+    padding:40px;
+}  
+
+.cardhead{
+    background-color: rgb(244, 244, 244);
+    
+}
+
+.cards{
+    display: flex;
+    padding:60px;
+}
+
+
+.layer{
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.371),rgba(0, 0, 0, 0.371));
+    height:500px;
+    width: 430px;
+    position: absolute;
+    top:2770px;
+    border-radius: 10px;
+}
+
+.layer:hover{
+    background: linear-gradient(rgba(0, 0, 0, 0.566),rgba(0, 0, 0, 0.5));
+}
+
+.head4{
+    font-size:45px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(83, 83, 83);
+    padding:40px;
+}  
+
+.olympic{
+    background-color: rgb(222, 222, 222) ;
+}
+
+.footer{
+    background-color: rgb(233, 254, 255);
+}
+
+.footext{
+    font-size:20px;
+    font-family: sans-serif;
+    color: rgb(80, 125, 170);
+    letter-spacing: 1px;
+}
+
+.footext:hover{
+    color: rgb(135, 185, 236) ;
+}
+
+.icons{
+    font-size: 25px;
+    
+}
+
+.place:hover{
+    color: rgb(61, 144, 227);
+}
+
+.position-head{
+    background: linear-gradient(rgba(0, 0, 0, 0.371),rgba(0, 0, 0, 0.371));
+    width: 500px;
+    height:530px;
+    padding: 20px;
+    border-style:solid ;
+    border-width:6px;
+    border-color: rgb(121, 134, 69);
+    border-radius: 5px;
+    color: white;
+    position: absolute;
+    top: 35%;
+    left:65% ;
+}
+
+.iconsarrow{
+    margin-top:60px;
+}
+
+/* #arrow:hover{
+    transform: scale(1.1);
+}
+
+#circle:hover{
+    transform: scale(1.1);
+} */
+
+#arrow:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+
+
+
+
